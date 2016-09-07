@@ -1,0 +1,46 @@
+/* commence primary ignition */
+
+* {
+    box-sizing: border-box;
+  }
+
+  header, section, footer, aside, nav, article, figure, figcaption {
+    display: block;
+  }
+  html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+  body { 
+    font-family: Georgia, "Times New Roman", serif, Myriad Pro;
+    background-position: center;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    background-color: black;
+  }
+
+/* end primary ignition */
+
+/* start body */
+
+h1 {
+  color: #fff;
+  font-family: 'Bungee', cursive;
+  text-align: center;
+  font-size: 3em;
+}
+div.gif {
+  width: 100%;
+}
+iframe {
+  margin-left: 25%;
+}
+h2 {
+  color: #fff;
+  font-family: 'Bungee', cursive;
+  text-align: center;
+  font-size: 3em;
+}
+
+/* end body */

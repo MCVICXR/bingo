@@ -55,5 +55,22 @@ h2.logo-title {
   text-align: center;
   font-size: 3em;
 }
+footer {
+  width: 100%;
+  background-color: black;
+}
+h3 {
+  color: #fff;
+  font-family: 'Bungee', cursive;
+  text-align: center;
+}
+h3.endline {
+  color: #fff;
+  text-align: center;
+  font-family: 'Kanit', sans-serif;
+}
+a {
+  text-decoration: none;
+}
 
 /* end body */

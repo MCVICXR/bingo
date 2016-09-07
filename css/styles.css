@@ -72,5 +72,25 @@ h3.endline {
 a {
   text-decoration: none;
 }
+#break {
+  width: 50%;
+  display: block;
+  margin: 0 auto;
+  color: #fff;
+}
+p {
+  color: #fff;
+  width: 50%;
+  display: block;
+  margin: 0 auto;
+  font-size: 2em;
+}
+img.rotary {
+  width: 30%;
+  height: 30%;
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 3em;
+}
 
 /* end body */

@@ -34,11 +34,24 @@ div.gif {
   width: 100%;
 }
 iframe {
-  margin-left: 25%;
+  display: block;
+  margin: 0 auto;
 }
 h2 {
   color: #fff;
   font-family: 'Bungee', cursive;
+  text-align: center;
+  font-size: 3em;
+}
+.logo {
+  width: 25%;
+  height: 25%;
+  display: block;
+  margin: 0 auto;
+}
+h2.logo-title {
+  color: #fff;
+  font-family: 'Fugaz One', cursive;
   text-align: center;
   font-size: 3em;
 }

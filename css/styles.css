@@ -82,6 +82,9 @@ button.btn {
   padding: 1em 0em;
   border-radius: 15px;
 }
+button.btn:hover {
+  border: solid 3px #F7A81B;
+}
 button a.button {
   color: #fff;
   font-family: 'Bungee', cursive;

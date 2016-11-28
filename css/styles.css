@@ -72,6 +72,22 @@ h3.endline {
 a {
   text-decoration: none;
 }
+button.btn {
+  background-color: #000;
+  border: #fff solid 3px;
+  height: 8em;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 5em;
+  padding: 1em 0em;
+  border-radius: 15px;
+}
+button a.button {
+  color: #fff;
+  font-family: 'Bungee', cursive;
+  font-size: 4em;
+  padding: .5em 2em;
+}
 #break {
   width: 50%;
   display: block;
